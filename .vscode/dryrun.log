@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/mac/Kaiyuan/Code/Github/kaierwen/My-CSAPP-CODE'
+make: Leaving directory `/Users/mac/Kaiyuan/Code/Github/kaierwen/My-CSAPP-CODE'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
