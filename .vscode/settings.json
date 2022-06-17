@@ -3,6 +3,7 @@
         "*.cjson": "jsonc",
         "*.wxss": "css",
         "*.wxs": "javascript",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "inttypes.h": "c"
     }
 }
