@@ -6,8 +6,11 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
+ 
+make: *** No rule to make target `all'.  Stop.
 
-# Make data base, printed on Tue Jun 21 09:01:40 2022
+
+# Make data base, printed on Thu Jun 23 14:12:50 2022
 
 # Variables
 
@@ -48,7 +51,7 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 P9K_SSH = 0
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/kb/0nxh_rqs4w7bt4_chpbvm2yc0000gn/T/vscode-ipc-75b06151-76ea-4669-be7c-f30f6f26a67b.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/kb/0nxh_rqs4w7bt4_chpbvm2yc0000gn/T/vscode-ipc-34cddf19-e7e0-407e-b133-20237092b5e4.sock
 # environment
 VSCODE_CWD = /
 # environment
@@ -58,8 +61,6 @@ LSCOLORS = Gxfxcxdxbxegedabagacad
 # environment
 JAVA_15_HOME = /Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home
 # environment
-LaunchInstanceID = 3F481B94-92C9-4025-8CAB-6A9928E7E4B0
-# environment
 VSCODE_LOG_STACK = false
 # environment
 ELECTRON_RUN_AS_NODE = 1
@@ -68,11 +69,11 @@ ANDROID_HOME = /Users/mac/Library/Android/sdk
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.e1LTLtZkFL/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.RY39LOgfRI/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
-DISPLAY = /private/tmp/com.apple.launchd.ELmyjwazLP/org.xquartz:0
+DISPLAY = /private/tmp/com.apple.launchd.GtuyZUQ11F/org.xquartz:0
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -175,8 +176,6 @@ ANDROID_SDK_ROOT = /Users/mac/Library/Android/sdk
 LC_ALL = C
 # environment
 JAVA_11_HOME = /Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home
-# environment
-SECURITYSESSIONID = 186a3
 # automatic
 ^F = $(notdir $^)
 # environment
@@ -198,11 +197,11 @@ JAVA_12_HOME = /Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home
 # environment
 JAVA_8_HOME = /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
 # environment
-VSCODE_PID = 884
+VSCODE_PID = 3616
 # environment
 MY_RUBY_HOME = /Users/mac/.rvm/rubies/ruby-2.6.6
 # variable set hash-table stats:
-# Load=95/1024=9%, Rehash=0, Collisions=5/116=4%
+# Load=93/1024=9%, Rehash=0, Collisions=5/114=4%
 
 # Pattern-specific Variable Values
 
@@ -284,8 +283,6 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Tue Jun 21 09:01:40 2022
+# Finished Make data base on Thu Jun 23 14:12:50 2022
 
  
-make: *** No rule to make target `all'.  Stop.
-
